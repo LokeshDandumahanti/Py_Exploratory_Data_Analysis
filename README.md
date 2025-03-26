@@ -89,3 +89,10 @@ Atliq-Hotels-Data-Analysis/
    ```bash
    git clone https://github.com/LokeshDandumahanti/Py_Exploratory_Data_Analysis.git
    cd Py_Exploratory_Data_Analysis
+
+2. **Run the Analysis**
+
+   ```bash
+   jupyter notebook notebooks/Atliq_Hotels_Data_Analysis.ipynb
+
+
