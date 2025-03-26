@@ -49,38 +49,6 @@ Our goal is to showcase how data-driven insights can empower businesses to optim
 
 ---
 
-## 📂 Repository Structure
-
-Atliq-Hotels-Data-Analysis/
-
-├── data/
-
-│   ├── dim_date.csv
-
-│   ├── dim_hotels.csv
-
-│   ├── dim_rooms.csv
-
-│   ├── Fact_aggregated_bookings.csv
-
-│   └── Fact_bookings.csv
-
-├── notebooks/
-
-│   └── Atliq_Hotels_Data_Analysis.ipynb
-
-├── README.md
-
-└── requirements.txt
-
-
-
-- **data/**: Contains all the raw datasets.
-- **notebooks/**: Jupyter Notebooks for interactive analysis.
-- **scripts/**: Python scripts for data cleaning, transformation, and visualization.
-- **requirements.txt**: List of Python dependencies.
-
----
 
 ## 📖 How to Run
 
