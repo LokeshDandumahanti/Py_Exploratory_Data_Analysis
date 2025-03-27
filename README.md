@@ -2,6 +2,7 @@
 
 Welcome to the **Atliq Hotels Data Analysis** project! This repository contains a comprehensive data analysis project focused on the hotel industry, developed as part of the Data Analyst course from Codebasics.
 
+Link to LinkedIn Post : https://www.linkedin.com/feed/update/urn:li:activity:7310850572482400257/
 ---
 
 ## 🚀 Overview
